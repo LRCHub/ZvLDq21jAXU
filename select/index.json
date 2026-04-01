@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "masterpiece",
+  "base_artist": "川田まみ",
+  "createdAt": "2026-04-01T18:11:43.290737Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "My Masterpiece",
+      "artist": "Darius Rucker",
+      "has_synced": true,
+      "path": "select/01_My_Masterpiece_Darius_Rucker.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Masterpiece",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/02_Masterpiece_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Masterpiece",
+      "artist": "Gazebo",
+      "has_synced": true,
+      "path": "select/03_Masterpiece_Gazebo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Masterpiece",
+      "artist": "Gazebo",
+      "has_synced": true,
+      "path": "select/04_Masterpiece_Gazebo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Masterpiece - Classic Remastered",
+      "artist": "Gazebo",
+      "has_synced": true,
+      "path": "select/05_Masterpiece_-_Classic_Remastered_Gazebo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Masterpiece (Classic Masterized)",
+      "artist": "Gazebo",
+      "has_synced": true,
+      "path": "select/06_Masterpiece_(Classic_Masterized)_Gazebo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Masterpiece - Live",
+      "artist": "Gazebo",
+      "has_synced": false,
+      "path": "select/07_Masterpiece_-_Live_Gazebo.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Masterpiece (live)",
+      "artist": "Gazebo",
+      "has_synced": false,
+      "path": "select/08_Masterpiece_(live)_Gazebo.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Masterpiece - Acoustic Version",
+      "artist": "NO!NO!NO!",
+      "has_synced": true,
+      "path": "select/09_Masterpiece_-_Acoustic_Version_NO!NO!NO!.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Masterpiece (Acoustic Version)",
+      "artist": "NONONO",
+      "has_synced": true,
+      "path": "select/10_Masterpiece_(Acoustic_Version)_NONONO.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Masterpiece (Vargas & Lagola Remix)",
+      "artist": "NO!NO!NO!",
+      "has_synced": false,
+      "path": "select/11_Masterpiece_(Vargas_&_Lagola_Remix)_NO!NO!NO!.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Masterpiece (Vargas & Lagola Remix)",
+      "artist": "NONONO",
+      "has_synced": false,
+      "path": "select/12_Masterpiece_(Vargas_&_Lagola_Remix)_NONONO.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Running (Masterpiece Armand Van Helden Edit)",
+      "artist": "Information Society",
+      "has_synced": false,
+      "path": "select/13_Running_(Masterpiece_Armand_Van_Helden_Edit)_Information_Society.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Masterpiece",
+      "artist": "Disclosure feat. Jordan Rakei",
+      "has_synced": true,
+      "path": "select/14_Masterpiece_Disclosure_feat._Jordan_Rakei.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Masterpiece Conspiracy",
+      "artist": "P.O.D.",
+      "has_synced": true,
+      "path": "select/15_Masterpiece_Conspiracy_P.O.D..lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sore In a Masterpiece / Dead Of Winter",
+      "artist": "Skinny Puppy",
+      "has_synced": false,
+      "path": "select/16_Sore_In_a_Masterpiece___Dead_Of_Winter_Skinny_Puppy.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Sore in a Masterpiece \u0000 Dead of Winter",
+      "artist": "Skinny Puppy",
+      "has_synced": false,
+      "path": "select/17_Sore_in_a_Masterpiece_\u0000_Dead_of_Winter_Skinny_Puppy.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "masterpiece",
+      "artist": "川田 まみ",
+      "has_synced": false,
+      "path": "select/pl_01_masterpiece_川田_まみ.txt"
+    }
+  ]
+}
